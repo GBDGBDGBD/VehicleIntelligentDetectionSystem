@@ -1,15 +1,44 @@
 {
   "files": {
-    "main.css": "/VehicleIntelligentDetectionSystem/static/css/main.84d52663.css",
-    "main.js": "/VehicleIntelligentDetectionSystem/static/js/main.5be59009.js",
-    "static/js/453.520e1735.chunk.js": "/VehicleIntelligentDetectionSystem/static/js/453.520e1735.chunk.js",
+    "main.css": "/VehicleIntelligentDetectionSystem/static/css/main.c13a98c4.css",
+    "main.js": "/VehicleIntelligentDetectionSystem/static/js/main.81b64844.js",
+    "reactPlayerYouTube.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerYouTube.494ad279.chunk.js",
+    "reactPlayerSoundCloud.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerSoundCloud.d9346c0f.chunk.js",
+    "reactPlayerVimeo.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerVimeo.8abc4ee0.chunk.js",
+    "reactPlayerMux.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerMux.646acb86.chunk.js",
+    "reactPlayerFacebook.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerFacebook.46a99b75.chunk.js",
+    "reactPlayerStreamable.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerStreamable.4c182c3b.chunk.js",
+    "reactPlayerWistia.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerWistia.121ffa83.chunk.js",
+    "reactPlayerTwitch.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerTwitch.8a478ec4.chunk.js",
+    "reactPlayerDailyMotion.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerDailyMotion.4b315078.chunk.js",
+    "reactPlayerMixcloud.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerMixcloud.aa3bd86d.chunk.js",
+    "reactPlayerVidyard.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerVidyard.85449bcf.chunk.js",
+    "reactPlayerKaltura.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerKaltura.327ba0ae.chunk.js",
+    "reactPlayerFilePlayer.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerFilePlayer.9852022e.chunk.js",
+    "reactPlayerPreview.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerPreview.1ae77535.chunk.js",
+    "static/js/453.6b9eaf94.chunk.js": "/VehicleIntelligentDetectionSystem/static/js/453.6b9eaf94.chunk.js",
+    "static/media/识别后.mp4": "/VehicleIntelligentDetectionSystem/static/media/识别后.f3f6a7d9dcebed6cee44.mp4",
     "index.html": "/VehicleIntelligentDetectionSystem/index.html",
-    "main.84d52663.css.map": "/VehicleIntelligentDetectionSystem/static/css/main.84d52663.css.map",
-    "main.5be59009.js.map": "/VehicleIntelligentDetectionSystem/static/js/main.5be59009.js.map",
-    "453.520e1735.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/453.520e1735.chunk.js.map"
+    "main.c13a98c4.css.map": "/VehicleIntelligentDetectionSystem/static/css/main.c13a98c4.css.map",
+    "main.81b64844.js.map": "/VehicleIntelligentDetectionSystem/static/js/main.81b64844.js.map",
+    "reactPlayerYouTube.494ad279.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerYouTube.494ad279.chunk.js.map",
+    "reactPlayerSoundCloud.d9346c0f.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerSoundCloud.d9346c0f.chunk.js.map",
+    "reactPlayerVimeo.8abc4ee0.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerVimeo.8abc4ee0.chunk.js.map",
+    "reactPlayerMux.646acb86.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerMux.646acb86.chunk.js.map",
+    "reactPlayerFacebook.46a99b75.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerFacebook.46a99b75.chunk.js.map",
+    "reactPlayerStreamable.4c182c3b.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerStreamable.4c182c3b.chunk.js.map",
+    "reactPlayerWistia.121ffa83.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerWistia.121ffa83.chunk.js.map",
+    "reactPlayerTwitch.8a478ec4.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerTwitch.8a478ec4.chunk.js.map",
+    "reactPlayerDailyMotion.4b315078.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerDailyMotion.4b315078.chunk.js.map",
+    "reactPlayerMixcloud.aa3bd86d.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerMixcloud.aa3bd86d.chunk.js.map",
+    "reactPlayerVidyard.85449bcf.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerVidyard.85449bcf.chunk.js.map",
+    "reactPlayerKaltura.327ba0ae.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerKaltura.327ba0ae.chunk.js.map",
+    "reactPlayerFilePlayer.9852022e.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerFilePlayer.9852022e.chunk.js.map",
+    "reactPlayerPreview.1ae77535.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerPreview.1ae77535.chunk.js.map",
+    "453.6b9eaf94.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/453.6b9eaf94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84d52663.css",
-    "static/js/main.5be59009.js"
+    "static/css/main.c13a98c4.css",
+    "static/js/main.81b64844.js"
   ]
 }
