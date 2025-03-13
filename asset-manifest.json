@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VehicleIntelligentDetectionSystem/static/css/main.c13a98c4.css",
-    "main.js": "/VehicleIntelligentDetectionSystem/static/js/main.81b64844.js",
+    "main.css": "/VehicleIntelligentDetectionSystem/static/css/main.62a00c24.css",
+    "main.js": "/VehicleIntelligentDetectionSystem/static/js/main.b783c4b1.js",
     "reactPlayerYouTube.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerYouTube.494ad279.chunk.js",
     "reactPlayerSoundCloud.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerSoundCloud.d9346c0f.chunk.js",
     "reactPlayerVimeo.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerVimeo.8abc4ee0.chunk.js",
@@ -18,9 +18,12 @@
     "reactPlayerPreview.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerPreview.1ae77535.chunk.js",
     "static/js/453.6b9eaf94.chunk.js": "/VehicleIntelligentDetectionSystem/static/js/453.6b9eaf94.chunk.js",
     "static/media/识别后.mp4": "/VehicleIntelligentDetectionSystem/static/media/识别后.f3f6a7d9dcebed6cee44.mp4",
+    "static/media/车1.png": "/VehicleIntelligentDetectionSystem/static/media/车1.0aff6bdbc3091c884853.png",
+    "static/media/车3.png": "/VehicleIntelligentDetectionSystem/static/media/车3.349c109585424b8d070b.png",
+    "static/media/车2.png": "/VehicleIntelligentDetectionSystem/static/media/车2.96cf8942e79e2ba16c64.png",
     "index.html": "/VehicleIntelligentDetectionSystem/index.html",
-    "main.c13a98c4.css.map": "/VehicleIntelligentDetectionSystem/static/css/main.c13a98c4.css.map",
-    "main.81b64844.js.map": "/VehicleIntelligentDetectionSystem/static/js/main.81b64844.js.map",
+    "main.62a00c24.css.map": "/VehicleIntelligentDetectionSystem/static/css/main.62a00c24.css.map",
+    "main.b783c4b1.js.map": "/VehicleIntelligentDetectionSystem/static/js/main.b783c4b1.js.map",
     "reactPlayerYouTube.494ad279.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerYouTube.494ad279.chunk.js.map",
     "reactPlayerSoundCloud.d9346c0f.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerSoundCloud.d9346c0f.chunk.js.map",
     "reactPlayerVimeo.8abc4ee0.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerVimeo.8abc4ee0.chunk.js.map",
@@ -38,7 +41,7 @@
     "453.6b9eaf94.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/453.6b9eaf94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c13a98c4.css",
-    "static/js/main.81b64844.js"
+    "static/css/main.62a00c24.css",
+    "static/js/main.b783c4b1.js"
   ]
 }
