@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VehicleIntelligentDetectionSystem/static/css/main.4d2fa014.css",
-    "main.js": "/VehicleIntelligentDetectionSystem/static/js/main.a726e5e8.js",
+    "main.css": "/VehicleIntelligentDetectionSystem/static/css/main.de865da0.css",
+    "main.js": "/VehicleIntelligentDetectionSystem/static/js/main.ba851559.js",
     "reactPlayerYouTube.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerYouTube.494ad279.chunk.js",
     "reactPlayerSoundCloud.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerSoundCloud.d9346c0f.chunk.js",
     "reactPlayerVimeo.js": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerVimeo.8abc4ee0.chunk.js",
@@ -33,8 +33,8 @@
     "static/media/车2.png": "/VehicleIntelligentDetectionSystem/static/media/车2.96cf8942e79e2ba16c64.png",
     "static/media/logo.png": "/VehicleIntelligentDetectionSystem/static/media/logo.79c4f21d71226f5b5297.png",
     "index.html": "/VehicleIntelligentDetectionSystem/index.html",
-    "main.4d2fa014.css.map": "/VehicleIntelligentDetectionSystem/static/css/main.4d2fa014.css.map",
-    "main.a726e5e8.js.map": "/VehicleIntelligentDetectionSystem/static/js/main.a726e5e8.js.map",
+    "main.de865da0.css.map": "/VehicleIntelligentDetectionSystem/static/css/main.de865da0.css.map",
+    "main.ba851559.js.map": "/VehicleIntelligentDetectionSystem/static/js/main.ba851559.js.map",
     "reactPlayerYouTube.494ad279.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerYouTube.494ad279.chunk.js.map",
     "reactPlayerSoundCloud.d9346c0f.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerSoundCloud.d9346c0f.chunk.js.map",
     "reactPlayerVimeo.8abc4ee0.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/reactPlayerVimeo.8abc4ee0.chunk.js.map",
@@ -53,7 +53,7 @@
     "453.6b9eaf94.chunk.js.map": "/VehicleIntelligentDetectionSystem/static/js/453.6b9eaf94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d2fa014.css",
-    "static/js/main.a726e5e8.js"
+    "static/css/main.de865da0.css",
+    "static/js/main.ba851559.js"
   ]
 }
